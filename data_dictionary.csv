@@ -1,3 +1,0 @@
-Variable,Variable Name,Measurement Unit,Allowed Values,Example,Description
-Date,observation_date,mm/dd/yy,1/1/92 - 12/1/24,1/1/92,"Date, monthly format, designates month associated with sales data"
-Monthly Sales,MRTSSM44814USN,numeric,0-100000,1012,"Retail sales (in millions of dollars) of family retail stores, collected at the end of each month, monthly, with no seasonality adjustment"
