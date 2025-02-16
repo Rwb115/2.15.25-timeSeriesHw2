@@ -1,0 +1,3 @@
+Variable,Variable name,Measurement unit,Data type,Allowed values,Example,Description
+Date,observation_date,mm/dd/yy,Date (string),1/1/92 - 12/1/24,1/1/92,"Beginning of the month, designates which month the sales data belong to, monthly frequency"
+Retail Sales,MRTSSM44814USN,Numeric,,0-100000,1013,"Monthly retail sales in Millions of Dollars in family retail stores, collected at the end of each month, not seasonally adjusted"
